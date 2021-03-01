@@ -1,0 +1,12 @@
+/* Webfont: CoreFont-Regular */@font-face {
+    font-family: 'CoreFont';
+    src: url('Mi fuente.eot'); /* IE9 Compat Modes */
+    src: url('Mi fuente.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('Mi fuente.woff') format('woff'), /* Modern Browsers */
+         url('Mi fuente.woff2') format('woff2'), /* Modern Browsers */
+         url('Mi fuente.ttf') format('truetype'); /* Safari, Android, iOS */
+             font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+

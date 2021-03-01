@@ -1,0 +1,9 @@
+/* Webfont: CoreFont-Regular */@font-face {
+    font-family: 'CoreFont';
+    src: url('Mi fuente.woff2') format('woff2'), /* Modern Browsers */
+         url('Mi fuente.otf') format('opentype'); /* Safari, Android, iOS */
+             font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+
